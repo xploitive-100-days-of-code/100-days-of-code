@@ -17,8 +17,8 @@ Threat Researcher @ Tech Company
 
 ## Prior Coding Experience:
 Basic Python Scripting
-* Completed [CodewithMosh] (https://codewithmosh.com/p/python-programming-course-beginners)
-* Completed [AutomatetheBoringStuff] (https://automatetheboringstuff.com/)
+* Completed [CodewithMosh](https://codewithmosh.com/p/python-programming-course-beginners)
+* Completed [AutomatetheBoringStuff](https://automatetheboringstuff.com/)
 
 ## Language for the Challenge
 Python
