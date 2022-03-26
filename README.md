@@ -7,6 +7,12 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
+## Spin on Rules
+
+A day will only count if there is a usable script/program submitted. Some scripts make take a 
+few days to learn, debug, and complete. The intent is to have 100 unique programs written at 
+the end of my 100 day challenge. 
+
 ## About Me
 
 * Threat Researcher @ Tech Company
